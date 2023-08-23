@@ -13,4 +13,4 @@ This test suite is the result of the combined efforts of:
 - **[Hieu Bui](https://www.linkedin.com/in/hbui92/)**: [hbui92](https://github.com/hbui92)
 - **[Alex Hawley](https://www.linkedin.com/in/alexhawley/)**: [alxHawley](https://github.com/alxHawley)
 - **[Ashley Mitchell](https://www.linkedin.com/in/ashley-mitchell-a977061/)**: [AshlMitchell](https://github.com/AshlMitchell)
-- **[Yuri Prater](www.linkedin.com/in/yuri-prater-ii)**: [yprater](https://github.com/yprater)
+- **[Yuri Prater](https://www.linkedin.com/in/yuri-prater-ii)**: [yprater](https://github.com/yprater)
